@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "ts-node src/usage-exmaple.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
